@@ -1,0 +1,41 @@
+/* 
+This app is styled with MaterialUI Components. For the most part, 
+take advantage of the Theming that comes with MaterialUI using inline styling.
+See ./themes/defaultTheme.js for more information.
+However, some styles, such as link colour, need to be styled here.
+
+The documentation for how to work with Themes can be found in the MaterialUI 
+docs at https://material-ui.com/customization/themes/ 
+
+Workaround for Link styling, for now 
+*/
+
+a:link {
+    color: '#676aB0';
+    font-weight: bolder;
+    text-decoration: none;  
+
+    transition: 0.2s;
+}
+
+a:visited {
+    color: '#676aB0';
+    font-weight: bolder;
+    text-decoration: none;  
+}
+
+a:hover {
+    color: red;
+}
+
+/* MyDevice Card Styling */
+
+.mycards {
+    color:#f16265;
+    height: 100%;
+}
+
+.mycards:hover {
+    color: #676ab0;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
+}
