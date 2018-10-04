@@ -4,9 +4,13 @@ This is a consumer facing web app using the [Conctr](conctr.com) Platform as its
 
 ### Created By
 Rashid Elhouli, [GitHub](https://github.com/elhoulir)
+
 Peter Cavalot, [GitHub](https://github.com/peytr)
+
 Drew Noll, [GitHub](https://github.com/oheydrew)
+
 Meng Lim, [GitHub](https://github.com/mengolicious)
+
 Glenn Greening, [GitHub](https://github.com/waltandmartha)
 
 - [**cButton**](#cbutton)
